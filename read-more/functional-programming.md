@@ -1,0 +1,4 @@
+- [Currying (Haskell)](https://wiki.haskell.org/Currying#:~:text=Currying%20is%20the%20process%20of,the%20rest%20of%20that%20tuple.)
+- [Currying (JS)](https://javascript.info/currying-partials)
+- [Partial application (Haskell)](https://wiki.haskell.org/Partial_application)
+- [Partial application (JS)](https://javascript.plainenglish.io/functional-javascript-partial-application-and-composition-d4accd96d8b6)
